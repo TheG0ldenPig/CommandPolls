@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="${loader_version_range}"
+license="${mod_license}"
+
+[[mods]]
+modId="commandpoll"
+version="${mod_version}"
+displayName="CommandPoll"
+authors="${mod_authors}"
+description='''A voting system for server commands.'''
+
+[[dependencies.commandpoll]]
+modId="forge"
+mandatory=true
+versionRange="${forge_version_range}"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.commandpoll]]
+modId="minecraft"
+mandatory=true
+versionRange="${minecraft_version_range}"
+ordering="NONE"
+side="BOTH"

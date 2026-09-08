@@ -1,0 +1,30 @@
+CommandPoll Changelog
+=====================
+
+[0.1.0] - Initial Release
+
+Added
+-----
+- Poll creation screen
+- Timer polls
+- Majority polls
+- Yes/No voting
+- Vote changes within 10 seconds
+- Top-right poll HUD
+- Command preview
+- /createpoll command
+- /cancelpoll command
+- /commandpoll_vote yes command
+- /commandpoll_vote no command
+- Automatic command execution for timer polls
+- Command safety restrictions
+- English language
+- Italian language
+- German language
+- Spanish language
+- French language
+- Brazilian Portuguese language
+- Russian language
+- Simplified Chinese language
+- Japanese language
+- Korean language

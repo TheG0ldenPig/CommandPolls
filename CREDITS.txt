@@ -1,0 +1,33 @@
+CommandPoll Credits
+===================
+
+CommandPoll is a Minecraft Forge mod created and developed by [TUO NICKNAME].
+
+Concept, development and code
+-----------------------------
+[TUO NICKNAME]
+
+Logo and icon
+-------------
+[NUCKNAME DEL TUO AMICO]
+
+Technology
+----------
+Minecraft Forge
+Minecraft 1.20.1
+ForgeGradle
+Java 17
+Official Mojang mappings
+
+Thanks
+------
+Special thanks to the Minecraft Forge team and the Minecraft modding community
+for providing the tools and documentation that make Forge mod development possible.
+
+CommandPoll uses Minecraft Forge as its modding framework.
+
+For more information about Minecraft Forge:
+https://minecraftforge.net/
+
+For the Forge source code:
+https://github.com/MinecraftForge/MinecraftForge
